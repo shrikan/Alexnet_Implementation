@@ -11,4 +11,4 @@ def install_all_packages(modules_to_try):
             install(e.name)
 
 if __name__ == '__main__':
-    modules_required = ["pandas", "sklearn", "xgboost", "matplotlib", "geopy"]
+    modules_required = ["pandas", "tensorflow", "pillow", "scipy"]
