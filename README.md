@@ -1,5 +1,5 @@
 Alexnet_Implementation
-==========================
+======================
 
 Implementation of paper ImageNet Classification with Deep Convolutional Neural Networks. </br>
 Refer: https://www.cs.toronto.edu/~fritz/absps/imagenet.pdf
